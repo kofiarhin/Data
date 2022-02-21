@@ -1,0 +1,5 @@
+---apis
+---ghana mps
+https://ghanamps.herokuapp.com/members
+---starwars
+https://swapi.dev/api/people/
