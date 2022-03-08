@@ -161,6 +161,39 @@
                 "price": 400,
                 "sizes": ["34", "35", "40", "45"]
             }
+          
             
+        ],
+        "gym": [
+            {
+                "name": "New Look sport running leggings in black",
+                "color": "black",
+                "price": 50,
+                "sizes": ["34", "35", "40", "45"]
+            },
+             {
+                "name": "Nike Running Challenger Dri-FIT knitted joggers in black",
+                "color": "black",
+                "price": 100,
+                "sizes": ["34", "35", "40", "45"]
+            },
+            {
+                "name": "Nike Running Element track",
+                "color": "black",
+                "price": 100,
+                "sizes": ["34", "35", "40", "45"]
+            },
+            {
+                "name": "Nike Running Flex Stride 5 inch",
+                "color": "black",
+                "price": 100,
+                "sizes": ["34", "35", "40", "45"]
+            },
+             {
+                "name": "Nike Running miler tank in white",
+                "color": "black",
+                "price": 50,
+                "sizes": ["34", "35", "40", "45"]
+            }
         ]
 }
